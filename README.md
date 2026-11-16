@@ -1,6 +1,6 @@
 # Berg for Zed
 
-A port of [Berg Theme by jx22 / teehausamberg](https://marketplace.visualstudio.com/items?itemName=teehausamberg.berg), based on version 0.0.4. Original theme: https://github.com/jx22/berg. MIT licensed; original copyright is preserved in LICENSE.
+A port of [Berg Theme by jx22 / teehausamberg](https://marketplace.visualstudio.com/items?itemName=teehausamberg.berg), based on version 0.0.4. Original theme: https://github.com/jx22/berg. The original theme is MIT licensed; this port is Beerware. Both notices are in LICENSE.
 
 Black editor, amber prose, green headings, cyan italics, red comments, and the original dark red title bar. UI and syntax colors come from the installed VS Code theme, including its intentionally subdued code colors.
 
