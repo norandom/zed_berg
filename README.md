@@ -4,6 +4,8 @@ A port of [Berg Theme by jx22 / teehausamberg](https://marketplace.visualstudio.
 
 Black editor, amber prose, green headings, cyan italics, red comments, and the original dark red title bar. UI and syntax colors come from the installed VS Code theme, including its intentionally subdued code colors.
 
+![Berg in Zed: PowerShell in the black editor with the dark red title bar](docs/screenshot.png)
+
 ## Install
 
 Run `./install.sh` (Linux, macOS) or `.\install.ps1` (Windows), or copy `themes/berg.json` into the Zed themes directory by hand:
