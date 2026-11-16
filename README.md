@@ -6,7 +6,7 @@ Black editor, amber prose, green headings, cyan italics, red comments, and the o
 
 ## Install
 
-Copy `themes/berg.json` into the Zed themes directory:
+Run `./install.sh` (Linux, macOS) or `.install.ps1` (Windows), or copy `themes/berg.json` into the Zed themes directory by hand:
 
 - Windows: `%APPDATA%\Zed\themes\`
 - macOS / Linux: `~/.config/zed/themes/`
